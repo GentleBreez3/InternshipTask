@@ -1,0 +1,14 @@
+#main {
+  width: 300px;
+}
+h3 {
+  margin-top: 20px;
+  display: inline-block;
+}
+.format {
+  margin-top: 20px;
+  float: right;
+}
+table{
+	margin-top: 20px;
+}
